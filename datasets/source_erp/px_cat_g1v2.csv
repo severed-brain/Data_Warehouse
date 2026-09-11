@@ -1,0 +1,11 @@
+id,cat,subcat,maintenance
+AC_HE,Accessories,Helmets,No
+AC_GL,Accessories,Gloves,No
+AC_BT,Accessories,Bottles & Cages,No
+AC_LG,Accessories,Lights,Yes
+BI_MO,Bikes,Mountain Bikes,Yes
+BI_RO,Bikes,Road Bikes,Yes
+BI_TO,Bikes,Touring Bikes,Yes
+CO_PD,Components,Pedals,Yes
+CO_CH,Components,Chains,Yes
+CO_WH,Components,Wheels,Yes

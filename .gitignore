@@ -1,0 +1,25 @@
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE & Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server temporary files and backups
+*.bak
+*.ldf
+*.mdf
+*.log
+
+# Temporary and cache files
+tmp/
+temp/
+*.tmp
